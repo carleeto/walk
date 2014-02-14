@@ -10,7 +10,7 @@ import (
 )
 
 import (
-	"github.com/lxn/win"
+	"github.com/carleeto/win"
 )
 
 var webViewIOleClientSiteVtbl *win.IOleClientSiteVtbl

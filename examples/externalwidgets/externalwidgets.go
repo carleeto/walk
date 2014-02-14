@@ -9,9 +9,9 @@ import (
 )
 
 import (
+	"github.com/carleeto/win"
 	"github.com/lxn/walk"
 	. "github.com/lxn/walk/declarative"
-	"github.com/lxn/win"
 )
 
 const myWidgetWindowClass = "MyWidget Class"

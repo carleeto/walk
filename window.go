@@ -13,7 +13,7 @@ import (
 )
 
 import (
-	"github.com/lxn/win"
+	"github.com/carleeto/win"
 )
 
 // App-specific message ids for internal use in Walk.
